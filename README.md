@@ -116,29 +116,7 @@ Développée en **Java** avec une base de données **MS Access**, l'application 
 
 ---
 
-## 📸 Captures d'écran
 
-### 🔑 Espace Administrateur
-
-| Écran | Description |
-|-------|-------------|
-| ![Connexion](docs/screenshots/admin/login.png) | Page d'authentification |
-| ![Tableau de bord](docs/screenshots/admin/dashboard.png) | Tableau de bord administrateur |
-| ![Gestion véhicules](docs/screenshots/admin/vehicules.png) | Module de gestion des véhicules |
-| ![Gestion clients](docs/screenshots/admin/clients.png) | Module de gestion des clients |
-| ![Gestion factures](docs/screenshots/admin/factures.png) | Module de facturation |
-| ![Gestion contrats](docs/screenshots/admin/contrats.png) | Module de gestion des contrats |
-| ![Gestion utilisateurs](docs/screenshots/admin/utilisateurs.png) | Module de gestion des utilisateurs |
-
-### 👤 Espace Client
-
-| Écran | Description |
-|-------|-------------|
-| ![Tableau de bord client](docs/screenshots/client/dashboard.png) | Tableau de bord client |
-| ![Véhicules disponibles](docs/screenshots/client/vehicules.png) | Liste des véhicules disponibles |
-| ![Mes réservations](docs/screenshots/client/reservations.png) | Historique des réservations |
-| ![Mes factures](docs/screenshots/client/factures.png) | Liste des factures |
-| ![Nouvelle réservation](docs/screenshots/client/nouvelle-reservation.png) | Formulaire de réservation |
 
 ---
 
