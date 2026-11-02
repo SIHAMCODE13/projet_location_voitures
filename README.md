@@ -73,7 +73,6 @@ Développée en **Java** avec une base de données **MS Access**, l'application 
 
 ### Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](docs/uml/usecase.png)
 
 **Acteurs :**
 - **Administrateur** : accès complet (CRUD sur toutes les entités)
@@ -82,7 +81,7 @@ Développée en **Java** avec une base de données **MS Access**, l'application 
 
 ### Diagramme de classes
 
-![Diagramme de classes](docs/uml/class.png)
+
 
 **Entités principales :**
 - `Client` — informations personnelles, réservations
