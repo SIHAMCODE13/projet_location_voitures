@@ -2,7 +2,6 @@
 
 > **Projet académique — Rapport & Documentation technique**  
 > Réalisé par **Siham Talbi**
-> Encadré par **Pr. Mohammed Berrada** & **Pr. Mohammed Moutaib**  
 > Année universitaire : **2024-2025**
 
 ---
@@ -132,7 +131,7 @@ Développée en **Java** avec une base de données **MS Access**, l'application 
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-utilisateur/location-voitures.git
+git clone https://github.com/SIHAMCODE13/projet_location_voitures.git
 cd location-voitures
 
 # 2. Ouvrir le projet dans Eclipse
